@@ -5,10 +5,10 @@
 ### Objectives
 The objective of this project is to implement a robust and secure cloud network architecture within AWS.
 
-![](reseaupng)
+![](reseau.PNG)
 
 
-![](cout.png)
+![](cout.PNG)
 
 ---
 
