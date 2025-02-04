@@ -5,6 +5,11 @@
 ### Objectives
 The objective of this project is to implement a robust and secure cloud network architecture within AWS.
 
+![](reseaupng)
+
+
+![](cout.png)
+
 ---
 
 ## Solution: Deploying Our Stack on AWS
